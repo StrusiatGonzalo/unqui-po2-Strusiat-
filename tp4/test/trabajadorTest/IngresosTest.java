@@ -1,6 +1,6 @@
 package trabajadorTest;
 
-
+//probar por teminal 
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
