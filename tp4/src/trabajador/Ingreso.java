@@ -20,5 +20,4 @@ public class Ingreso {
 		return this.montoPercibido;
 	}
 	
-	
 }
