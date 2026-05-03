@@ -5,7 +5,16 @@ import java.util.List;
 
 
 public class Caja {
-	double totalAPagar;
+	private double totalAPagar;
+	private Factura factura;
+	
+	public Factura getFactura() {
+		return this.factura;
+	}
+	
+	public void setFactura(Factura factura) {
+		this.factura = factura;
+	}
 
 	
 	public void registrarProducto(Producto producto) {
